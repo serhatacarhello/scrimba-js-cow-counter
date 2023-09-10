@@ -51,7 +51,12 @@ button {
 #save-btn {
   background: #009b72;
 }
+#reset-btn {
+  background-color: darkred;
+}
 
-#save-el {
+#save-p {
+  max-width: 80%;
   font-weight: bold;
+  white-space: break-spaces;
 }
